@@ -1,1 +1,1 @@
-select * from samples.nyctaxi.trips limit 1000;
+select * from samples.nyctaxi.trips limit 100;
