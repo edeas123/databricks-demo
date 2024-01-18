@@ -1,0 +1,1 @@
+select * from samples.nyctaxi.trips limit 1000;
